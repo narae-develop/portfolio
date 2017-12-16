@@ -2,8 +2,11 @@
 
 ## Dynamic Calender (2018)
 Web과 IOS, Android 모든 버전으로 만들 예정입니다.
+
 Web은 Vue.js, IOS는 swift 4.0, Android는 Kotlin을 통해 표현하려고 계획중입니다.
-Backend는 Restful을 지원하며 mongoDB를 사용할 예정입니다
+
+Backend는 Restful을 지원하며 mongoDB를 사용할 예정입니다.
+
 현재는 아이디어 구상중이고 기획 단계에 있습니다.
 
 ## [AccountBookManage (2017)](https://github.com/narae-develop/AccountBookManage)
