@@ -1,5 +1,13 @@
 # PORTFOLIO
 
+## [My Project (2018)](https://github.com/jo-narae/my-project)
+
+현재 프론트엔드 작업중이며 프로젝트명은 임시로 my-project를 사용하고 있습니다.
+
+프로젝트명은 바뀔 예정입니다.
+
+Spring Framework, Java, Jquery, Ajax, Bootstrap, Mybatis, Mysql
+
 ## [AccountBookManage (2017)](https://github.com/narae-develop/AccountBookManage)
 
 __Spring Project__ : Spring Security를 적용한 장부관리 프로그램
