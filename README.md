@@ -6,6 +6,10 @@
 
 프로젝트명은 바뀔 예정입니다.
 
+현재는 vue를 사용하여 프론트엔드 작업을 끝낸 상태입니다.
+
+곧 Spring boot + JPA를 사용하여 백엔드를 작업할 예정입니다.
+
 ## [AccountBookManage (2017)](https://github.com/narae-develop/AccountBookManage)
 
 __Spring Project__ : Spring Security를 적용한 장부관리 프로그램
