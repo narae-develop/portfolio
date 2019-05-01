@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-## [ZULY (2018~2019)](https://github.com/narae-develop/portfolio/ZULY)
+## [ZULY (2018~2019)](https://github.com/narae-develop/portfolio/tree/master/ZULY)
 패션 구독 서비스 줄라이(고객용, 관리자용)
 
 줄라이 서비스는 여성의 옷을 2주에 한번씩 상하의 세트 혹은 원피스, 코트 등을 추천해서
