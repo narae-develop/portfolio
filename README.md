@@ -48,7 +48,7 @@ Swift 2.0, SQLite 3.0, Sprite Kit
 
 __Android Project__ : 서울 관광지를 소개하는 안드로이드 앱
 
-![SeoulTravel](https://github.com/narae-develop/portfolio/blob/master/thumbnail/seoultravel.PNG)
+![SeoulTravel](https://github.com/narae-develop/portfolio/blob/master/thumbnail/seoultravel.png)
 
 Android Marshmallow, Java, JPA
 
