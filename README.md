@@ -32,7 +32,7 @@ Spring Framework, Java, Jquery, Ajax, Bootstrap, Mybatis, Mysql
 
 __Android Project__ : 카페 주문 안드로이드 앱
 
-![CafeOrder](./master/thumbnail/cafeorder.png)
+![CafeOrder](https://github.com/narae-develop/portfolio/blob/master/thumbnail/cafeorder.PNG)
 
 Android Marshmallow, Java, JPA, SQLite 3.0
 
@@ -40,7 +40,7 @@ Android Marshmallow, Java, JPA, SQLite 3.0
 
 __IOS Project__ : Sprite Kit 를 사용한 RPG 게임
 
-![DragonSlayer](./master/thumbnail/dragonslayer.png)
+![DragonSlayer](https://github.com/narae-develop/portfolio/blob/master/thumbnail/dragonslayer.PNG)
 
 Swift 2.0, SQLite 3.0, Sprite Kit
 
@@ -48,7 +48,7 @@ Swift 2.0, SQLite 3.0, Sprite Kit
 
 __Android Project__ : 서울 관광지를 소개하는 안드로이드 앱
 
-![SeoulTravel](./master/thumbnail/seoultravel.png)
+![SeoulTravel](https://github.com/narae-develop/portfolio/blob/master/thumbnail/seoultravel.PNG)
 
 Android Marshmallow, Java, JPA
 
@@ -56,7 +56,7 @@ Android Marshmallow, Java, JPA
 
 __Spring Project__ : Ajax polling 기법을 이용한 채팅 프로그램
 
-![UserChat](./master/thumbnail/userchat.png)
+![UserChat](https://github.com/narae-develop/portfolio/blob/master/thumbnail/userchat.PNG)
 
 Spring Framework, Java, Jquery, Ajax, Bootstrap, Mybatis, Mysql
 
@@ -64,7 +64,7 @@ Spring Framework, Java, Jquery, Ajax, Bootstrap, Mybatis, Mysql
 
 __IOS Project__ : Swift 2.0 을 사용한 슈팅 게임
 
-![BirdShot](./master/thumbnail/birdshot.png)
+![BirdShot](https://github.com/narae-develop/portfolio/blob/master/thumbnail/birdshot.PNG)
 
 Swift 2.0, SQLite 3.0
 
