@@ -11,15 +11,16 @@ __Web Project__ : 패션 구독 서비스 줄라이(고객용, 관리자용)
 
 2019년 3월 31일까지 서비스를 운영 했습니다.
 
+![ZULY User](./ZULY/thumbnail/user.png)
+![ZULY Admin](./ZULY/thumbnail/admin.png)
+
 Node.js, Vue.js, AWS, MariaDB
 
 ## [My Project (2018)](https://github.com/jo-narae/my-project)
 
-현재 프론트엔드 작업중이며 프로젝트명은 임시로 my-project를 사용하고 있습니다.
+__Web Project__ : 프로젝트 관리 프로그램
 
-프로젝트명은 바뀔 예정입니다.
-
-현재는 vue를 사용하여 프론트엔드 작업을 끝낸 상태입니다.
+Vue.js
 
 ## [AccountBookManage (2017)](https://github.com/narae-develop/AccountBookManage)
 
@@ -31,11 +32,15 @@ Spring Framework, Java, Jquery, Ajax, Bootstrap, Mybatis, Mysql
 
 __Android Project__ : 카페 주문 안드로이드 앱
 
+![CafeOrder](./thumbnail/cafeorder.png)
+
 Android Marshmallow, Java, JPA, SQLite 3.0
 
 ## [Dragon Slayer (2016)](https://github.com/narae-develop/dragon-slayer)
 
 __IOS Project__ : Sprite Kit 를 사용한 RPG 게임
+
+![DragonSlayer](./thumbnail/dragonslayer.png)
 
 Swift 2.0, SQLite 3.0, Sprite Kit
 
@@ -43,17 +48,23 @@ Swift 2.0, SQLite 3.0, Sprite Kit
 
 __Android Project__ : 서울 관광지를 소개하는 안드로이드 앱
 
+![SeoulTravel](./thumbnail/seoultravel.png)
+
 Android Marshmallow, Java, JPA
 
 ## [User Chat (2016)](https://github.com/narae-develop/userChat)
 
 __Spring Project__ : Ajax polling 기법을 이용한 채팅 프로그램
 
+![UserChat](./thumbnail/userchat.png)
+
 Spring Framework, Java, Jquery, Ajax, Bootstrap, Mybatis, Mysql
 
 ## [Bird Shot (2015)](https://github.com/narae-develop/BirdShot)
 
 __IOS Project__ : Swift 2.0 을 사용한 슈팅 게임
+
+![BirdShot](./thumbnail/birdshot.png)
 
 Swift 2.0, SQLite 3.0
 
