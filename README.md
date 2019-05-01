@@ -66,9 +66,9 @@ __Hybrid Application Project__ : 농협 차세대 개발 참여 및 고도화 �
 
 스마트뱅킹, 스피드뱅킹은 차세대 프로젝트때 새로 만들었으며 스마트기업뱅킹은 대응개발을 했습니다.
 
-- 스마트뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh스마트뱅킹/id1444712671?mt=8) [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.banking&hl=ko)
-- 스피드뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh-글로벌-스피드뱅킹/id836365212?mt=8) [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.speed&hl=en_US)
-- 스마트기업뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh농협-기업스마트뱅킹/id572186085) [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.nhibzbanking&hl=ko)
+- 스마트뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh스마트뱅킹/id1444712671?mt=8) | [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.banking&hl=ko)
+- 스피드뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh-글로벌-스피드뱅킹/id836365212?mt=8) | [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.speed&hl=en_US)
+- 스마트기업뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh농협-기업스마트뱅킹/id572186085) | [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.nhibzbanking&hl=ko)
 
 Morpheus, JavaScript, JQuery
 
