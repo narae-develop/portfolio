@@ -36,9 +36,9 @@ Node.js, Vue.js, AWS, MariaDB
 ## [uEngine (2017~2017)](https://github.com/TheOpenCloudEngine/uEngine5-base)
 __Web Project - BPMN 솔루션__ : BPMN 프로세스로 서비스를 만들 수 있는 소프트웨어 플랫폼
 
-유엔진에서 개발하는 BPMN 솔루션 개발에 계약직으로 참여 하였습니다. 
+유엔진에서 개발하는 BPMN 솔루션 개발에 계약직으로 참여했습니다. 
 
-BPMN 저작 화면에서 사용하는 관리자 웹 서비스를 개발하였습니다. 
+BPMN 제작 화면에서 사용하는 관리자 웹 서비스를 개발했습니다. 
 
 Vue.js, Vue material, Spring boot JPA
 
