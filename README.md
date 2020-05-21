@@ -1,5 +1,22 @@
 # PORTFOLIO
 
+## [Creatrip (2019~2019)](https://www.creatrip.com/)
+__Web Project__ : 중화권 방한객 여행정보 플랫폼 크리에이트립(고객용, 관리자용)
+
+크리에이트립은 중화권 방한객을 위한 한국 여행정보를 제공해주는 여행정보 플랫폼입니다.
+
+여행정보 제공 외에도 한국 여행시 필요한 액티비티 예약이나 배달 음식을 주문해주는
+
+서비스를 제공했으며 하반기에는 숙소 예약 서비스를 준비했습니다.
+
+저는 크리에이트립에서 백엔드 개발을 주로 담당했으며 관리자 페이지의 경우
+
+프론트 엔드 개발까지 담당했습니다.
+
+![creatrip](https://raw.githubusercontent.com/narae-develop/portfolio/master/thumbnail/creatrip.PNG)
+
+Node.js, Vue.js, AWS, MariaDB, Nuxt.js, Sequelize ORM, GraphQL
+
 ## [ZULY (2018~2019)](https://github.com/narae-develop/portfolio/tree/master/ZULY)
 __Web Project__ : 패션 구독 서비스 줄라이(고객용, 관리자용)
 
@@ -85,6 +102,8 @@ Morpheus, JavaScript, JQuery
 
 ## [국회도서관 (2011~2012)](https://www.nanet.go.kr/main.do)
 __Web Project__ : 국회도서관 사이트 유지보수
+
+![nanet](https://raw.githubusercontent.com/narae-develop/portfolio/master/thumbnail/nanet.PNG)
 
 저는 국회도서관을 이용하는 유저 페이지 유지보수 및 
 
