@@ -1,4 +1,4 @@
-# PORTFOLIO
+# 상용 서비스
 
 ## [Creatrip (2019~2019)](https://www.creatrip.com/)
 __Web Project__ : 중화권 방한객 여행정보 플랫폼 크리에이트립(고객용, 관리자용)
@@ -32,6 +32,35 @@ __Web Project__ : 패션 구독 서비스 줄라이(고객용, 관리자용)
 ![ZULY Admin](./ZULY/thumbnail/admin.png)
 
 Node.js, Vue.js, AWS, MariaDB
+
+## 농협 스마트 뱅킹 개발 업무 (2013~2014)
+__Hybrid Application Project__ : 농협 차세대 개발 참여 및 고도화 프로젝트 참여
+
+2013년 2월부터 2014년 2월까지 농협 차세대 프로젝트 프로젝트 참여했으며
+
+이후, 2014년 8월부터 2014년 12월까지 농협 차세대 어플리케이션을 고도화하는 프로젝트에 참여했습니다.
+
+스마트뱅킹, 스피드뱅킹은 차세대 프로젝트때 새로 만들었으며 스마트기업뱅킹은 대응개발을 했습니다.
+
+- 스마트뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh스마트뱅킹/id1444712671?mt=8) | [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.banking&hl=ko)
+- 스피드뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh-글로벌-스피드뱅킹/id836365212?mt=8) | [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.speed&hl=en_US)
+- 스마트기업뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh농협-기업스마트뱅킹/id572186085) | [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.nhibzbanking&hl=ko)
+
+Morpheus, JavaScript, JQuery
+
+## [국회도서관 (2011~2012)](https://www.nanet.go.kr/main.do)
+__Web Project__ : 국회도서관 사이트 유지보수
+
+![nanet](https://raw.githubusercontent.com/narae-develop/portfolio/master/thumbnail/nanet.PNG)
+
+저는 국회도서관을 이용하는 유저 페이지 유지보수 및 
+
+직원들이 사용하는 인트라넷 화면을 유지보수했습니다.
+
+JSP, JAVA, Informix
+
+
+# 개인 프로젝트
 
 ## [AccountBookManage (2017)](https://github.com/narae-develop/AccountBookManage)
 
@@ -78,29 +107,3 @@ __IOS Project__ : Swift 2.0 을 사용한 슈팅 게임
 ![BirdShot](https://github.com/narae-develop/portfolio/blob/master/thumbnail/birdshot.PNG)
 
 Swift 2.0, SQLite 3.0
-
-## Nonghyup New Generation (2013~2014)
-__Hybrid Application Project__ : 농협 차세대 개발 참여 및 고도화 프로젝트 참여
-
-2013년 2월부터 2014년 2월까지 농협 차세대 프로젝트 프로젝트 참여했으며
-
-이후, 2014년 8월부터 2014년 12월까지 농협 차세대 어플리케이션을 고도화하는 프로젝트에 참여했습니다.
-
-스마트뱅킹, 스피드뱅킹은 차세대 프로젝트때 새로 만들었으며 스마트기업뱅킹은 대응개발을 했습니다.
-
-- 스마트뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh스마트뱅킹/id1444712671?mt=8) | [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.banking&hl=ko)
-- 스피드뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh-글로벌-스피드뱅킹/id836365212?mt=8) | [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.speed&hl=en_US)
-- 스마트기업뱅킹 [아이폰](https://itunes.apple.com/kr/app/nh농협-기업스마트뱅킹/id572186085) | [안드로이드](https://play.google.com/store/apps/details?id=nh.smart.nhibzbanking&hl=ko)
-
-Morpheus, JavaScript, JQuery
-
-## [국회도서관 (2011~2012)](https://www.nanet.go.kr/main.do)
-__Web Project__ : 국회도서관 사이트 유지보수
-
-![nanet](https://raw.githubusercontent.com/narae-develop/portfolio/master/thumbnail/nanet.PNG)
-
-저는 국회도서관을 이용하는 유저 페이지 유지보수 및 
-
-직원들이 사용하는 인트라넷 화면을 유지보수했습니다.
-
-JSP, JAVA, Informix
