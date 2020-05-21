@@ -33,6 +33,17 @@ __Web Project__ : 패션 구독 서비스 줄라이(고객용, 관리자용)
 
 Node.js, Vue.js, AWS, MariaDB
 
+## [uEngine (2017~2017)](https://github.com/TheOpenCloudEngine/uEngine5-base)
+__Web Project - BPMN 솔루션__ : BPMN 프로세스로 서비스를 만들 수 있는 소프트웨어 플랫폼
+
+유엔진에서 개발하는 BPMN 솔루션 개발에 계약직으로 참여 하였습니다. 
+
+BPMN 저작 화면에서 사용하는 관리자 웹 서비스를 개발하였습니다. 
+
+Vue.js, Vue material, Spring boot JPA
+
+![uengine](https://raw.githubusercontent.com/narae-develop/portfolio/master/thumbnail/uengine.png)
+
 ## 농협 스마트 뱅킹 개발 업무 (2013~2014)
 __Hybrid Application Project__ : 농협 차세대 개발 참여 및 고도화 프로젝트 참여
 
