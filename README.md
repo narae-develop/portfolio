@@ -33,12 +33,6 @@ __Web Project__ : 패션 구독 서비스 줄라이(고객용, 관리자용)
 
 Node.js, Vue.js, AWS, MariaDB
 
-## [My Project (2018)](https://github.com/jo-narae/my-project)
-
-__Web Project__ : 프로젝트 관리 프로그램
-
-Vue.js
-
 ## [AccountBookManage (2017)](https://github.com/narae-develop/AccountBookManage)
 
 __Spring Project__ : Spring Security를 적용한 장부관리 프로그램
